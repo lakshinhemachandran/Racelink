@@ -1,3 +1,11 @@
 (WIP) Coming Soon!
 
-Racelink is an interactive web application built with React that lets users explore real-time and historical Formula 1 data using the OpenF1 API. The app provides race results, driver information, team profiles, lap times, and session insights through a clean and easy-to-use interface. Users can search for drivers or races without needing to know technical API codes, thanks to custom mapping logic that automatically connects names (like Lando Norris or 2025 Mexican GP) to the correct OpenF1 data endpoints. The application includes dynamic charts, responsive design, and reusable React components to create a fast, modern experience. Key Features: Live and historical F1 race results Detailed driver and team pages with stats, bios, and performance trends Smart search system that converts names and races into driver/session codes automatically Lap time viewer with charts and comparisons Clean UI with responsive layout Fully integrated using the OpenF1 API Deployed online for easy access
+Racelink is an interactive web application built with React that lets users explore real-time and historical Formula 1 data using the OpenF1 API. The app provides race results, driver information, team profiles, lap times, and session insights through a clean and easy-to-use interface. Users can search for drivers or races without needing to know technical API codes, thanks to custom mapping logic that automatically connects names (like Lando Norris or 2025 Mexican GP) to the correct OpenF1 data endpoints. The application includes dynamic charts, responsive design, and reusable React components to create a fast, modern experience. 
+
+Key Features: 
+Live and historical F1 race results 
+Detailed driver and team pages with stats, bios, and performance trends 
+Smart search system that converts names and races into driver/session codes automatically 
+Lap time viewer with charts and comparisons Clean UI with responsive layout 
+Fully integrated using the OpenF1 API 
+Deployed online for easy access
